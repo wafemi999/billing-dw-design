@@ -29,5 +29,5 @@ To design a data warehouse that can support the queries for more analysis:
 
 1. Ingest data from cloud-service-provider. csv
 2. Connect to postgres
-3. design facts and dimension table (Schema.txt)
+3. design facts and dimension table (Schema.sql)
 4. Solve queries
