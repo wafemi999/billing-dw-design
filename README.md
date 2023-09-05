@@ -19,3 +19,7 @@ To design a data warehouse that can support the queries for more analysis:
 * average billing per industry per quarter
 * average billing per country per quarter
 * average billing per country per industry per quarter
+
+## Tools Used:
+* postgres
+* Vscode
