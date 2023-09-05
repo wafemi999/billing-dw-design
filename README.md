@@ -1,5 +1,5 @@
 # billing-dw-design
-design, modelling of facts and dimension tables for a cloud-service-provider
+design, modelling of a datawarehouse -  facts and dimension tables (star-schema) for a cloud-service-provider dataset 
 
 
 ## objective:
