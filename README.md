@@ -2,6 +2,7 @@
 design, modelling of a datawarehouse -  facts and dimension tables (star-schema) for a cloud-service-provider dataset 
 
 
+
 ## objective:
 
 To design a data warehouse that can support the queries for more analysis:
@@ -23,3 +24,10 @@ To design a data warehouse that can support the queries for more analysis:
 ## Tools Used:
 * postgres
 * Vscode
+
+## Process:
+
+1. Ingest data from cloud-service-provider. csv
+2. Connect to postgres
+3. design facts and dimension table (Schema.txt)
+4. Solve queries
